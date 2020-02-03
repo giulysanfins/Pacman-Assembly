@@ -46,6 +46,9 @@
 ![mapa2_certa](https://user-images.githubusercontent.com/32877842/73675559-695b1300-4691-11ea-85f9-0d684b468513.png)
 * Mapa 3.  
 ![mapa_3](https://user-images.githubusercontent.com/32877842/73678425-1dab6800-4697-11ea-9620-c37db6acb51e.PNG)
+* Após comer pastilha power-up.  
+![comendo_certo](https://user-images.githubusercontent.com/32877842/73675611-85f74b00-4691-11ea-9297-3c0899dc7f75.png)
+
 
 ### Desenvolvedores
 * Giuliano Marques Sanfins
