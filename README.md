@@ -5,7 +5,7 @@
 ## Cópia do jogo PacMan feito em linguagem Assembly x8086
 
 ### Descrição do Projeto
-   * Trata-se de uma cópia do jogo PacMan feito na linguagem Assembly x8086. Alguns dos pré-requisitos do projeto eram ter seleção de mapas, contador de "score", vidas para o personagem, mecânica de “Power-Up”, algo que lhe concedia mais poder temporariamente, pílulas energéticas do personagem permitiam que, por um tempo limitado, ele pudesse devorar os fantasmas;
+   * Trata-se de uma cópia do jogo PacMan feito na linguagem Assembly x8086. Alguns dos pré-requisitos do projeto eram ter seleção de mapas, contador de "score", vidas para o personagem, mecânica de “Power-Up”, algo que lhe concede mais poder temporariamente, pílulas energéticas do personagem permitem que, por um tempo limitado, ele pudesse devorar os fantasmas;
 * Tela Inicial do jogo.
 ![telainicial](https://user-images.githubusercontent.com/32877842/73675820-eab2a580-4691-11ea-949b-c60a73cd22e8.PNG)
 
