@@ -21,7 +21,7 @@
 
 
 ### Guia de instalação
-* Para executar o programa na linguagem Assembly x8086, no qual o algoritmo foi realizado, necessita apenas do software DOSBOX, podendo ser instalado no computador ou apenas realizando o download do executável e desenvolvendo o projeto com ele, como já descrito, não precisando de nenhuma outra ferramenta adicional ou especial, esse programa pode ser obtido no link acima.
+* Para executar o programa na linguagem Assembly x8086, no qual o algoritmo foi realizado, necessita apenas do software DOSBOX, podendo ser instalado no computador, como já descrito, não precisando de nenhuma outra ferramenta adicional ou especial, esse programa pode ser obtido no link acima.
 
 ### Desenvolvimento
 * Git clone https://github.com/giulysanfins/Pacman-Assembly.git
