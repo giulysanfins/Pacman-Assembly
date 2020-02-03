@@ -27,7 +27,7 @@
 * Git clone https://github.com/giulysanfins/Pacman-Assembly.git
 * Se realizar "Download ZIP", necessita de um descompactador de arquivos.
 * Após ter instalado o DOSBOX, os seguintes passos devem ser feitos:  
- 1-)Fazer o "mount" no dosbox (colocar o diretório que o programa está). Ex: mount j c:\users\giuliano\desktop\pacman*
+ 1-)Fazer o "mount" no dosbox (colocar o diretório que o programa está). Ex: mount j c:\users\giuliano\desktop\pacman.  
   ![mount](https://user-images.githubusercontent.com/32877842/73677495-200cc280-4695-11ea-96cf-661ec93600f9.PNG) 
  2-)Usar compiladores tasm e tlink para gerar os executáveis. Ex: tasm pacman.asm e em seguido tlink pacman.obj
   ![tasm](https://user-images.githubusercontent.com/32877842/73675541-5c3e2400-4691-11ea-9b04-b46cf1d740a5.PNG)
